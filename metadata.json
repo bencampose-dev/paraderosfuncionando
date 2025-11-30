@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Bus Stop Occupancy Monitor",
+  "description": "An application to monitor and display real-time data for bus stop occupancy from a Supabase database, providing insights into people count and flow.",
+  "requestFramePermissions": []
+}
